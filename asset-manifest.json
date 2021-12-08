@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/karamweb/static/css/main.b2c378dc.chunk.css",
+    "main.js": "/karamweb/static/js/main.cf1747c9.chunk.js",
+    "main.js.map": "/karamweb/static/js/main.cf1747c9.chunk.js.map",
+    "runtime-main.js": "/karamweb/static/js/runtime-main.1eacfd2d.js",
+    "runtime-main.js.map": "/karamweb/static/js/runtime-main.1eacfd2d.js.map",
+    "static/js/2.5f19f200.chunk.js": "/karamweb/static/js/2.5f19f200.chunk.js",
+    "static/js/2.5f19f200.chunk.js.map": "/karamweb/static/js/2.5f19f200.chunk.js.map",
+    "static/js/3.1c88c986.chunk.js": "/karamweb/static/js/3.1c88c986.chunk.js",
+    "static/js/3.1c88c986.chunk.js.map": "/karamweb/static/js/3.1c88c986.chunk.js.map",
+    "index.html": "/karamweb/index.html",
+    "static/css/main.b2c378dc.chunk.css.map": "/karamweb/static/css/main.b2c378dc.chunk.css.map",
+    "static/js/2.5f19f200.chunk.js.LICENSE.txt": "/karamweb/static/js/2.5f19f200.chunk.js.LICENSE.txt",
+    "static/media/icon.2d26167b.png": "/karamweb/static/media/icon.2d26167b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1eacfd2d.js",
+    "static/js/2.5f19f200.chunk.js",
+    "static/css/main.b2c378dc.chunk.css",
+    "static/js/main.cf1747c9.chunk.js"
+  ]
+}
