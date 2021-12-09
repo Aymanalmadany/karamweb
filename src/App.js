@@ -1,22 +1,31 @@
 import { BrowserRouter as Router, Switch, Route,Routes } from 'react-router-dom';
 import Navbar from './components/Navbar';
-import Home from './Home';
-import Product from './Product';
-import About from './About';
+import Home from './docs/Home';
+import Product from './docs/Product';
+import About from './docs/About';
 
 function App() {
   return (
     <>
-      <Router>
-          <Navbar/>
-          <Routes>
-            <Route exact path='/about'  element={<About/>}/>
-            <Route exact path='/product'  element={<Product/>}/>
-            <Route exact path='/'  element={<Home/>}/>
-          </Routes>
-      </Router>
+    <Router>
+        <Navbar/>
+        <Switch>
+          <Route path='/about' >
+            <About/>
+          </Route>
+          <Route path='/product' >
+            <Product/>
+          </Route>
+          <Route path='/' >
+            <Home/>
+          </Route>
+        </Switch>
+    </Router>
     </>
   );
 }
 
 export default App;
+
+
+
