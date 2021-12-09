@@ -1,0 +1,16 @@
+@import '../Style/variable.scss';
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+body {
+   width: 100% ;
+   font-family: $Cairo;
+   color: $black;
+}
+#root {
+    height: 10%;
+}
+li {
+    text-decoration: none;
+}
