@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/karamweb/static/css/main.b2c378dc.chunk.css",
-    "main.js": "/karamweb/static/js/main.1e928f6b.chunk.js",
-    "main.js.map": "/karamweb/static/js/main.1e928f6b.chunk.js.map",
+    "main.js": "/karamweb/static/js/main.333ec6b8.chunk.js",
+    "main.js.map": "/karamweb/static/js/main.333ec6b8.chunk.js.map",
     "runtime-main.js": "/karamweb/static/js/runtime-main.f918560e.js",
     "runtime-main.js.map": "/karamweb/static/js/runtime-main.f918560e.js.map",
     "static/js/2.86b61fe0.chunk.js": "/karamweb/static/js/2.86b61fe0.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.f918560e.js",
     "static/js/2.86b61fe0.chunk.js",
     "static/css/main.b2c378dc.chunk.css",
-    "static/js/main.1e928f6b.chunk.js"
+    "static/js/main.333ec6b8.chunk.js"
   ]
 }
